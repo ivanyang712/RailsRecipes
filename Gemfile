@@ -12,7 +12,7 @@ gem 'rails', '~> 5.0.2'
 gem 'bootstrap-sass'
 
 gem 'devise'
-
+gem "nested_form_fields"
 gem "rails-i18n"
 gem "devise-i18n"
 gem "select2-rails"
