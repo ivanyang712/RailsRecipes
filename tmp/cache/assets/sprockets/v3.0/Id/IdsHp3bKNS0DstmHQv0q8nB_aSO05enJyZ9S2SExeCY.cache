@@ -1,0 +1,19 @@
+{:uriI"Ôfile:///Users/yangyepeng/.rvm/gems/ruby-2.3.1/gems/ckeditor-4.2.4/vendor/assets/javascripts/ckeditor/plugins/preview/preview.html?type=text/html&id=83823db1c5dd42fb8a7f4c91f869056d6127ae82bb1e2da209d36250d48ec0ce:ET:load_pathI"Y/Users/yangyepeng/.rvm/gems/ruby-2.3.1/gems/ckeditor-4.2.4/vendor/assets/javascripts;T:filenameI"/Users/yangyepeng/.rvm/gems/ruby-2.3.1/gems/ckeditor-4.2.4/vendor/assets/javascripts/ckeditor/plugins/preview/preview.html;T:	nameI"%ckeditor/plugins/preview/preview;T:logical_pathI"*ckeditor/plugins/preview/preview.html;T:content_typeI"text/html;T:sourceI"ö<script>
+
+// Prevent from DOM clobbering.
+if ( typeof window.opener._cke_htmlToLoad == 'string' ) {
+	var doc = document;
+	doc.open();
+	doc.write( window.opener._cke_htmlToLoad );
+	doc.close();
+
+	delete window.opener._cke_htmlToLoad;
+}
+
+</script>
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"2processors:type=text/html&file_type=text/html;TTI"ˆfile-digest:///Users/yangyepeng/.rvm/gems/ruby-2.3.1/gems/ckeditor-4.2.4/vendor/assets/javascripts/ckeditor/plugins/preview/preview.html;TTF:charsetI"
+utf-8;F:digest"%Ø½Ëœßy™†ì¢€;jF>îç`¨Ø—hvêf…:lengthiö:dependencies_digest"%ÿ¿JüžPÏ)8wÔu+nÜ’ò‚Á{Eò;J>
+»"3„:idI"E83823db1c5dd42fb8a7f4c91f869056d6127ae82bb1e2da209d36250d48ec0ce;F:
+mtimel+Oã–Y

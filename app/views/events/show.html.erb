@@ -3,4 +3,4 @@
 <h2><%= @event.category.try(:name) %></h2>
 
 
-<%= simple_format @event.description %>
+<%= @event.description.html_safe %>
